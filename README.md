@@ -54,9 +54,7 @@ Our implementation is provided in a Jupyter Notebook:
 ## Output
 
  - **Content-based filtering:** Returns top-N items similar to a product based on category.
-
  - **Collaborative filtering:** Returns top-N items personalized for a user.
-
  - **Hybrid system:** Combines both, achieving higher accuracy and reducing cold-start issues.
 
 ---
